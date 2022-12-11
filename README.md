@@ -1,5 +1,5 @@
-# deprecated package-maintenance
-got superseeded by: 
+# resolved package-maintenance
+Closed by: 
 - https://github.com/lemanschik/why-you-should-switch-away-from-npm-nodejs
 
 
