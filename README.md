@@ -1,5 +1,10 @@
-# package-maintenance team
+# deprecated package-maintenance
+got superseeded by: 
+- https://github.com/lemanschik/why-you-should-switch-away-from-npm-nodejs
 
+
+
+## the below was the old goals which all got archived via nodejs deprecation and package.json deprecation.
 Repository for discussion on how to help ensure baseline
 maintenance and ability to safely use key packages in the
 ecosystem with current Node.js versions. You can find more
