@@ -9,7 +9,8 @@ Repository for discussion on how to help ensure baseline
 maintenance and ability to safely use key packages in the
 ecosystem with current Node.js versions. You can find more
 about this initiative in the article:
-[Call to Action: Accelerating Node.js Growth](https://medium.com/@nodejs/call-to-action-accelerating-node-js-growth-e4862bee2919)
+- [Call to Action: Accelerating Node.js Growth](https://medium.com/@nodejs/call-to-action-accelerating-node-js-growth-e4862bee2919)
+- which is now obsolete as it is all solved https://github.com/lemanschik/why-you-should-switch-away-from-npm-nodejs
 
 ## Goals
 
